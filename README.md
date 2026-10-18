@@ -1,10 +1,7 @@
-<h1 align="center">
-  <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:22C55E&height=180&section=header&text=Your%20Profile&fontSize=42&fontColor=F8FAFC&animation=fadeIn" alt="Live Preview Banner" />
-</p>
-  Hi 👋, I'm Subham Kumar Nayak</h1>
+<h1 align="center">Hi 👋, I'm Subham Kumar Nayak</h1>
+
 <p align="center">
-  <strong>Computer Science Graduate • AI/ML & Full-Stack Developer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI%2FML+Practitioner+(OCR+%26+Vision+AI);ServiceNow+Certified+CSA+%26+CAD;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,6 +11,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/subham7815" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-subham7815-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nayaksubham551@gmail.com"><img src="https://img.shields.io/badge/Email-nayaksubham551%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
@@ -78,4 +76,14 @@ I actively welcome open-source contributions, feedback, and collaborative projec
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subham7815&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
+</p>
+
+### 🐍 Contribution Activity Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subham7815/subham7815/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subham7815/subham7815/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/subham7815/subham7815/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </p>
