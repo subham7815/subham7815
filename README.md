@@ -47,16 +47,6 @@
 
 ---
 
-### 📜 Certifications & Achievements
-
-- 🏅 **ServiceNow:** Certified System Administrator (**CSA**)
-- 🏅 **ServiceNow:** Certified Application Developer (**CAD**)
-- 🏅 **HackerRank:** Frontend Developer (**React**)
-- 🏅 **Infosys Springboard:** Introduction to Data Science
-- 🏅 **Deloitte:** Data Analytics Job Simulation
-
----
-
 ### 🤝 Contributing & Collaboration
 
 I actively welcome open-source contributions, feedback, and collaborative projects!
