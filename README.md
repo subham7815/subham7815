@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/subham7815" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-subham7815-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:nayaksubham551@gmail.com"><img src="https://img.shields.io/badge/Email-nayaksubham551%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Location-Bhubaneswar%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
 ---
