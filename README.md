@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 CS Graduate from **SOA University**
+- 🎓 CSE Graduate from **SOA University**
 - 💼 AI/ML Intern at **KreativeTimebox** (Document AI & OCR)
 - ⚙️ ServiceNow Certified (**CSA** & **CAD**)
 - 🚀 Building full-stack web applications & AI tools
